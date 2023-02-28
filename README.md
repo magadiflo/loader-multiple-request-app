@@ -24,3 +24,6 @@ Luego agregaran el módulo NgxUiLoaderModule dentro del modulo principal de su p
 })
 export class AppModule {}
 ```
+
+## [Documentación de la librería ngx-ui-loader](https://tdev.app/ngx-ui-loader)
+## [Demo de la librería ngx-ui-loader](https://tdev.app/ngx-ui-loader/demo/)
