@@ -6,3 +6,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Tomado del canal de youtube **LogiDev**
 
 ## [Repositorio del tutorial](https://github.com/jimyhdolores/demo-loader-multiple-request-angular)
+
+## [Cómo crear un Mock Server en Postman con un ejemplo claro](https://www.youtube.com/watch?v=WtT1ZhXNYWU)
