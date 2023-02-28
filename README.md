@@ -9,6 +9,8 @@ Tomado del canal de youtube **LogiDev**
 
 ## [Cómo crear un Mock Server en Postman con un ejemplo claro](https://www.youtube.com/watch?v=WtT1ZhXNYWU)
 
+## [Cómo agregar delay a una petición en un Mock Server de Postman](https://community.postman.com/t/how-to-delay-response-from-mock-server/11833)
+
 ## [Para el loader usamos la librería ngx-ui-loader](https://github.com/t-ho/ngx-ui-loader)
 Ejecutamos el siguiente comando para instalarlo:
 ```
